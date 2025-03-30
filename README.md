@@ -8,7 +8,7 @@ an anomaly detection system on 284,807 transactions, achieving an AUC of ~0.972 
 # Abstract
 Anomaly detection for financial transactions is used to detect fraud, secure sensitive data, and gain higher transaction processing system efficiency. In this paper, a broad analysis of different machine learning methods for fraud detection is studied along with their unsupervised learning techniques. This article breaks down the application of Isolation Forest, Local Outlier Factor (LOF), Autoencoders, and Convolutional Neural Networks (CNNs) to financial datasets for anomaly detection. We compare these models against others, for which we calculate AUC, Silhouette Score, Davies-Bouldin Index, and Precision-Recall scores on our data. The outcomes show that the deep learning algorithms in Autoencoder and CNNs are far more accurate and resilient than the traditional models for abnormality detection. The results are critical for developing more advanced, effective, and efficient fraud detection systems in the financial domain.
 
- 
+
 # 🚀 Key Features:
 
 Developed an anomaly detection system on 284,807 transactions, achieving an AUC of ~0.972 with CNNs and Autoencoders.
